@@ -1,4 +1,4 @@
-# ESM 244 Winter 2020 Lab 6
+
 Visualizing & wrangling spatial data continued, ordinary kriging example
 
 ### Required packages:
